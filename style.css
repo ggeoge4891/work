@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 微軟正黑體;
     box-sizing: border-box;
+    
 }
 
 body {
@@ -17,7 +18,7 @@ a {
     background-repeat: no-repeat;
     width: 100vw;
     /* calc 計算 - CSS 計算數字 + - * / */
-    height: calc(100vw / 2.2);
+    height: 100px;
 }
 
 .link {
